@@ -59,6 +59,3 @@ botonAgregar.addEventListener("click", function chequearInput() {
   }
 })
 
-
-        // inputItem.setAttribute('type', 'text') => no hace falta
-        // inputItem.setAttribute("disabled", "true") => no hace falta
